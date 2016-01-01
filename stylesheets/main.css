@@ -1,0 +1,50 @@
+/*INDEX.HTML STYLING*/
+.navbar{
+    background-color: #19A1FF;
+}
+
+.navbar-default .navbar-nav>li>a{
+    color:white;
+}
+
+.navbar-default .navbar-brand {
+    color:white;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+    background-color: #2E8BCC;
+    color: white;
+}
+
+.jumbotron{
+    margin: 125px;
+    padding-top: 10px;
+    padding-bottom: 200px;
+    background-color: #78aa1c;
+}
+
+/*PROJECT.HTML STYLING*/
+
+#projects{
+    margin: 50px;
+}
+
+/*CONTACT.HTML STYLING*/
+.contact-container{
+    margin-top: 5%;
+}
+
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+
+#submitButton{
+    margin-left: 115px;
+}
